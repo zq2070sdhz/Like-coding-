@@ -20,3 +20,9 @@ Version1 end
 Version2 1.0.0Beta01
 Don't update!
 But I created multiple files to prevent the annoyance of having more code later on just one file, so I created multiple files and just click me when using them.
+Version 2 end
+-------------
+1.0.0!
+New-randomNumber
+1.0.0 end
+----------
